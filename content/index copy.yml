@@ -6,18 +6,14 @@ description: "At QVC BD Limited, we fuse global technology with local innovation
 hero:
   links:
     - label: "Our Products"
-      to: /products
+      to: https://github.com/nuxt-ui-templates/portfolio
       color: "neutral"
   images:
-    - src: /hero/f1.jpg
+    - src: /hero/kit1.jpeg
       alt: Random Image 1
-    - src: /hero/f2.jpg
+    - src: /hero/kit2.jpeg
       alt: Random Image 2
-    - src: /hero/f3.jpg
-      alt: Random Image 3
-    - src: /hero/f4.jpg
-      alt: Random Image 3
-    - src: /hero/f5.jpg
+    - src: /hero/kit3.jpeg
       alt: Random Image 3
     - src: /hero/p1.jpg
       alt: Random Image 4
@@ -31,7 +27,6 @@ hero:
       alt: Random Image 8
     - src: /hero/p3.jpg
       alt: Random Image 9
-
 about:
   title: "About Us"
   description: |
@@ -44,7 +39,7 @@ experience:
       date: "2016"
       company:
         name:
-        logo: "noto:trophy"
+        logo: "i-simple-icons-nuxtdotjs"
         url: "https://nuxt.com"
         color: "#00DC82"
     - position: "SME Foundation Award 2"
@@ -87,18 +82,18 @@ faq:
   title: Frequently Asked Questions
   description: Answers to common questions about our manufacturing process and products.
   categories:
-    - title: Manufacturing Process & Quality
+    - title: Quality & Manufacturing Process
       questions:
         - label: What services do you offer?
           content: |
-            I specialize in UX/UI design and front-end development. This includes user research, wireframing, interactive prototyping, creating intuitive user interfaces, building responsive websites and web applications (especially with Vue.js/Nuxt.js), and developing design systems. My goal is to create seamless digital experiences from concept to deployment.
+            I specialize in UX/UI design and front-end development. My goal is to create seamless digital experiences from concept to deployment.
         - label: What is your design process like?
           content: |
             My process is collaborative and iterative, typically involving stages like Discovery & Research, Ideation & Prototyping, User Testing, Visual Design, and close collaboration with development teams during implementation. I tailor the process based on project needs, always focusing on user-centered solutions.
         - label: Do you work with startups?
           content: |
             Absolutely! I enjoy working with startups to help shape their product vision and create user-friendly interfaces from the ground up. I can adapt my process to fit the fast-paced startup environment.
-    - title: Pricing & Delivery Timelines
+    - title: Product & Pricing
       questions:
         - label: How much does a project typically cost?
           content: |

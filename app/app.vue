@@ -19,22 +19,22 @@ useHead({
 
 useSeoMeta({
   titleTemplate: '%s - QVC BD Limited',
-  ogImage: 'https://ui4.nuxt.com/assets/templates/nuxt/portfolio-light.png',
-  twitterImage: 'https://ui4.nuxt.com/assets/templates/nuxt/portfolio-light.png',
+  ogImage: '/qvc-og-image.png',
+  twitterImage: '/qvc-og-image.png',
   twitterCard: 'summary_large_image'
 })
 
 const [{ data: navigation }, { data: files }] = await Promise.all([
   useAsyncData('navigation', () => {
     return Promise.all([
-      queryCollectionNavigation('blog')
+      queryCollectionNavigation('index')
     ])
   }, {
     transform: data => data.flat()
   }),
   useLazyAsyncData('search', () => {
     return Promise.all([
-      queryCollectionSearchSections('blog')
+      queryCollectionSearchSections('index')
     ])
   }, {
     server: false,

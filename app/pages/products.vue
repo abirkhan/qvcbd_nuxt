@@ -1,6 +1,6 @@
 <script setup lang="ts">
-const { data: page } = await useAsyncData('about', () => {
-  return queryCollection('about').first()
+const { data: page } = await useAsyncData('products', () => {
+  return queryCollection('products').first()
 })
 if (!page.value) {
   throw createError({
@@ -18,6 +18,14 @@ useSeoMeta({
   description: page.value?.seo?.description || page.value?.description,
   ogDescription: page.value?.seo?.description || page.value?.description
 })
+const items = [
+  'https://picsum.photos/640/640?random=1',
+  'https://picsum.photos/640/640?random=2',
+  'https://picsum.photos/640/640?random=3',
+  'https://picsum.photos/640/640?random=4',
+  'https://picsum.photos/640/640?random=5',
+  'https://picsum.photos/640/640?random=6'
+]
 </script>
 
 <template>
@@ -61,18 +69,23 @@ useSeoMeta({
           container: '!pt-0'
         }"
       >
-        <MDC
-          :value="page.content"
-          unwrap="p"
-        />
-        <div class="flex flex-row justify-center items-center py-10 space-x-[-2rem]">
-          <PolaroidItem
-            v-for="(image, index) in page.images"
-            :key="index"
-            :image="image"
-            :index
-          />
-        </div>
+        <UCarousel
+          v-slot="{ item }"
+          class-names
+          arrows
+          :items="items"
+          :ui="{
+            item: 'basis-[70%] transition-opacity [&:not(.is-snapped)]:opacity-10'
+          }"
+          class="w-full max-w-(--ui-container) mx-auto px-4 sm:px-6 lg:px-8 flex flex-col lg:grid py-12"
+        >
+          <img
+            :src="item"
+            :width="460"
+            height="460"
+            class="rounded-lg"
+          >
+        </UCarousel>
       </UPageSection>
     </Motion>
   </UPage>

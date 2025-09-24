@@ -1,14 +1,27 @@
 title: Gallery
-description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+description: Welcome to the official photo gallery of QVC BD LTD. This is a space where we share moments that capture the essence of our company—our people, our processes, and our progress. Here, you’ll find a visual journey through our company's life, showing the dedication of our team and the quality of our work.
 content: |
-  ## Welcome to Our Gallery
-  ### Beyond the Screen
 
-  When I'm not designing or coding, you might find me exploring Boston's latest coffee shops, hiking nearby trails, or occasionally contributing to open-source projects.
-
-  Thanks for stopping by. Feel free to browse my [projects](/projects) or [get in touch](/#contact) if you'd like to collaborate!
 images:
-  - src: https://images.unsplash.com/photo-1744877478622-a78c7a3336f6?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    alt: My coffee workspace
-  - src: https://images.unsplash.com/photo-1744429523595-2c06b8611242?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    alt: My trip to Tokyo
+  - src: /hero/f1.jpg
+    alt: Image 1 (640x640)
+  - src: /hero/f2.jpg
+    alt: Image 2
+  - src: /hero/f3.jpg
+    alt: Image 3
+  - src: /hero/f4.jpg
+    alt: Image 3
+  - src: /hero/f5.jpg
+    alt: Image 3
+  - src: /hero/p1.jpg
+    alt: Image 4
+  - src: /hero/p2.jpg
+    alt: Image 5
+  - src: /hero/p3.jpg
+    alt: Image 6
+  - src: /hero/kit2.jpeg
+    alt: Image 7
+  - src: /hero/kit3.jpeg
+    alt: Image 8
+  - src: /hero/p3.jpg
+    alt: Image 9

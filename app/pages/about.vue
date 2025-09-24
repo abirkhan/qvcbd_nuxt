@@ -10,8 +10,6 @@ if (!page.value) {
   })
 }
 
-const { global } = useAppConfig()
-
 useSeoMeta({
   title: page.value?.seo?.title || page.value?.title,
   ogTitle: page.value?.seo?.title || page.value?.title,
@@ -49,11 +47,14 @@ useSeoMeta({
           links: 'justify-start'
         }"
       >
-        <UColorModeAvatar
-          class="sm:rotate-4 size-36 rounded-lg ring ring-default ring-offset-3 ring-offset-(--ui-bg)"
-          :light="global.picture?.light!"
-          :dark="global.picture?.dark!"
-          :alt="global.picture?.alt!"
+        <UUser
+          orientation="vertical"
+          name="MD. Shamsuzzaman"
+          description="Founder, Managing Director"
+          :avatar="{
+            src: 'https://i.pravatar.cc/150?u=john-doe',
+            size: 48
+          }"
         />
       </UPageHero>
       <UPageSection
@@ -65,6 +66,40 @@ useSeoMeta({
           :value="page.content"
           unwrap="p"
         />
+        <div class="grid sm:grid-cols-1 md:grid-cols-2 gap-4 place-content-center">
+          <UCard variant="subtle">
+            <div class="py-2">
+              <NuxtImg
+                src="/qvc-logo.png"
+                alt="QVC BD Limited"
+                width="64"
+                height="auto"
+                class="mx-auto"
+              >
+                qvc-logo
+              </NuxtImg>
+              <span class="truncate text-center block">MD. Shamsuzzaman</span>
+              <span class="truncate text-center text-sm italic text-gray-500 block">Founder, Managing Director</span>
+            </div>
+          </UCard>
+          <UCard variant="subtle">
+            <template #header>
+              <NuxtImg
+                src="/qvc-logo.png"
+                alt="QVC BD Limited"
+                width="64"
+                height="auto"
+                class="mx-auto"
+              >
+                qvc-logo
+              </NuxtImg>
+            </template>
+            <div class="py-2">
+              <span class="truncate text-center block">MD. Shamsuzzaman</span>
+              <span class="truncate text-center text-sm italic text-gray-500 block">Founder, Managing Director</span>
+            </div>
+          </UCard>
+        </div>
         <div class="flex flex-row justify-center items-center py-10 space-x-[-2rem]">
           <PolaroidItem
             v-for="(image, index) in page.images"

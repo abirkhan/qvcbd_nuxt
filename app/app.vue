@@ -19,8 +19,8 @@ useHead({
 
 useSeoMeta({
   titleTemplate: '%s - QVC BD Limited',
-  ogImage: '/qvc-og-image.png',
-  twitterImage: '/qvc-og-image.png',
+  ogImage: 'https://qvcbd.com/qvc-og-image.png',
+  twitterImage: 'https://qvcbd.com/qvc-og-image.png',
   twitterCard: 'summary_large_image'
 })
 

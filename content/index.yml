@@ -1,8 +1,8 @@
 seo:
   title: "Bangladesh's First Motorcycle Chain Manufacturer"
   description: "QVC BD Limited is Bangladesh’s first motorcycle chain manufacturer, delivering precision-engineered parts for two- and three-wheelers. With lean manufacturing, global technology, and local expertise, we’re driving the future of mobility—reliably, affordably, and proudly made in Bangladesh."
-title: "Built for Bangladesh. Driven by Purpose"
-description: "At QVC BD Limited, we fuse global technology with local innovation to manufacture high-performance chains for two- and three-wheelers."
+title: "QVC BD LTD"
+description: "International-Standard Drive Chain Manufacturer in Bangladesh."
 hero:
   links:
     - label: "Our Products"
@@ -33,7 +33,7 @@ hero:
       alt: Random Image 9
 
 about:
-  title: "About Us"
+  title: "Who We Are"
   description: |
     QVC BD Limited is Bangladesh’s first motorcycle chain manufacturer, delivering precision-engineered parts for two- and three-wheelers. 
     With lean manufacturing, global technology, and local expertise, we’re driving the future of mobility—reliably, affordably, and proudly made in Bangladesh.
@@ -89,34 +89,31 @@ faq:
   categories:
     - title: Manufacturing Process & Quality
       questions:
-        - label: What services do you offer?
+        - label: What types of drive chains do you manufacture?
           content: |
-            I specialize in UX/UI design and front-end development. This includes user research, wireframing, interactive prototyping, creating intuitive user interfaces, building responsive websites and web applications (especially with Vue.js/Nuxt.js), and developing design systems. My goal is to create seamless digital experiences from concept to deployment.
-        - label: What is your design process like?
+            We produce drive chains for a variety of vehicles, including motorcycles, bicycles, rickshaws, vans, and auto-rickshaws. We are the sole international-standard manufacturer in Bangladesh for these products.
+        - label: What makes your drive chains "international-standard"?
           content: |
-            My process is collaborative and iterative, typically involving stages like Discovery & Research, Ideation & Prototyping, User Testing, Visual Design, and close collaboration with development teams during implementation. I tailor the process based on project needs, always focusing on user-centered solutions.
-        - label: Do you work with startups?
+            Our products meet global benchmarks for quality, durability, and performance. We use premium materials, advanced manufacturing processes, and rigorous quality control to ensure our chains are comparable to those made by top international manufacturers.
+        - label: Where can I buy your products?
           content: |
-            Absolutely! I enjoy working with startups to help shape their product vision and create user-friendly interfaces from the ground up. I can adapt my process to fit the fast-paced startup environment.
+            Our products are available through our network of authorized dealers and distributors across Bangladesh. Please contact us for a list of locations near you.
     - title: Pricing & Delivery Timelines
       questions:
-        - label: How much does a project typically cost?
+        - label: How much price?
           content: |
-            Project costs vary based on scope, complexity, features, and timeline. For comprehensive UX/UI design and front-end development projects, my engagements typically start around $5,000, with average projects ranging between $8,000 and $25,000. For consulting or specific design tasks, my day rate is $700.
+            The price of our products varies depending on the type of product (motorcycle, bicycle, rickshaw chain, etc.), the specific model, and the size. We are committed to providing competitive and fair pricing for our international-standard products.
         - label: What are your payment terms?
           content: |
-            I generally require a 40% deposit to schedule the project and begin work, with the remaining 60% due upon successful project completion and delivery. I accept payments via bank transfer and Stripe.
-        - label: How long does a typical project take?
+            For all bulk and B2B orders, our payment terms will be clearly outlined in the official Purchase Order or sales agreement. We are committed to building a strong business relationship based on trust and clear communication. For any specific questions about payment for a particular order, please contact our sales team directly, and they will be happy to assist you.
+        - label: How long does delivery take?
           content: |
-            Timelines depend heavily on the project's scope and complexity. Smaller projects might take 3-4 weeks, while larger, more involved projects can range from 2 to 4 months. I always provide a detailed timeline estimate after the initial discovery phase.
-        - label: Do you offer retainers or ongoing support?
-          content: |
-            Yes, for clients needing ongoing design support, feature development, or maintenance, I offer monthly retainer options tailored to specific needs. Let's discuss if this is something you're interested in.
+            For large or bulk orders, the delivery timeline will be discussed and finalized with our sales team to ensure all logistics are handled smoothly. We will provide you with a tracking number or a point of contact for updates on your shipment. Please note that delivery times may be subject to minor delays due to unforeseen circumstances like national holidays or political situations. However, we are committed to keeping you informed every step of the way.
     - title: About Us
       questions:
-        - label: What do you enjoy most about your work?
+        - label: What about your production schedule?
           content: |
-            I love the challenge of solving complex problems through design and technology. It's incredibly rewarding to see people interact with something I've created and find it genuinely useful and easy to navigate. Bridging the gap between user needs and technical possibilities is what truly excites me.
-        - label: What are your hobbies outside of work?
+            Our factory operates for 16 hours daily to keep up with regular market demand. However, when we receive large or bulk orders, our production runs for 24 hours, working in shifts to meet deadlines and ensure that our business partners receive their products on time. This flexible and robust production schedule, combined with our advanced technology from Japan and Germany, allows us to handle both regular orders and large-scale projects without compromising on the quality of our products.
+        - label: Dream of QVC BD LTD?
           content: |
-            When I'm not designing or coding, I enjoy exploring Boston's neighborhoods, trying out new coffee shops, and hiking in the nearby reservations. I'm also passionate about photography and occasionally contribute to open-source projects.
+            QVC BD LTD's dream is to build a lasting legacy. We are committed to fostering a new generation of skilled workers and engineers who can proudly say they built a world-class product right here in Bangladesh. We want to be a company that not only provides jobs but also contributes to the nation's economy and reputation. Ultimately, our dream is simple yet ambitious: to be the power behind the wheels of progress in Bangladesh, one high-quality drive chain at a time.

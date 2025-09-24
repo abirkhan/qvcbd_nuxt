@@ -18,14 +18,6 @@ useSeoMeta({
   description: page.value?.seo?.description || page.value?.description,
   ogDescription: page.value?.seo?.description || page.value?.description
 })
-const items = [
-  'https://picsum.photos/640/640?random=1',
-  'https://picsum.photos/640/640?random=2',
-  'https://picsum.photos/640/640?random=3',
-  'https://picsum.photos/640/640?random=4',
-  'https://picsum.photos/640/640?random=5',
-  'https://picsum.photos/640/640?random=6'
-]
 </script>
 
 <template>
@@ -73,14 +65,15 @@ const items = [
           v-slot="{ item }"
           class-names
           arrows
-          :items="items"
+          :items="page.images"
           :ui="{
             item: 'basis-[70%] transition-opacity [&:not(.is-snapped)]:opacity-10'
           }"
           class="w-full max-w-(--ui-container) mx-auto px-4 sm:px-6 lg:px-8 flex flex-col lg:grid py-12"
         >
           <img
-            :src="item"
+            :src="item.src"
+            :alt="item.alt"
             :width="460"
             height="460"
             class="rounded-lg"

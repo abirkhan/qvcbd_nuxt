@@ -1,26 +1,49 @@
 title: About Us
-description: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+description: We're proud to support Bangladesh's transportation and industrial sectors by providing essential components that keep people and goods moving.
 content: |
-  QVC BD Limited is Bangladesh’s first motorcycle chain manufacturer, delivering precision-engineered parts for two- and three-wheelers.
+  QVC BD Limited is Bangladesh’s first motorcycle chain manufacturer, delivering precision-engineered parts for two- and three-wheelers. Our drive chains are a testament to our commitment to quality, durability, and innovation. We're the only company in Bangladesh that manufactures international-standard drive chains for motorcycles, bicycles, rickshaws, vans, and auto-rickshaws. Our mission is to produce high-quality, reliable, and durable products that contribute to the progress of our nation's transportation and industrial sectors.
 
   With lean manufacturing, global technology, and local expertise, we’re driving the future of mobility—reliably, affordably, and proudly made in Bangladesh.
 
-  ### My Design Philosophy
+  ### Our Story
 
-  My design philosophy is rooted in **empathy** and **problem-solving**. I believe great design starts with understanding the 'why' – the user's needs, motivations, and pain points. I use research, iterative prototyping (often with tools like Figma), and user testing to ensure the solutions I build are truly effective.
+  The story of QVC BD LTD is one of vision and legacy. It begins with the family of Mr. A.T.M. Shamsuzzaman, whose family had been deeply involved in the motorcycle trade for generations. From a young age, Mr. Shamsuzzaman was immersed in the business, learning the intricacies of the industry from his father and grandfather.
 
-  I strive to create interfaces that feel effortless, where functionality and beauty work hand-in-hand. Whether I'm crafting pixel-perfect UIs or writing clean Vue.js/Nuxt.js code, my focus is always on creating value for the end-user.
+  As he grew up, Mr. Shamsuzzaman realized something significant. While the motorcycle trade was a thriving business, a major opportunity was being missed in Bangladesh. The domestic manufacturing of high-quality drive chains. Most businesses relied on imported parts, which were often expensive and not always best suited for the local market.
 
-  ### What Drives Me
+  Seeing this potential, Mr. Shamsuzzaman knew he could create something new and better. He envisioned a company that would not just trade parts, but would innovate and produce them to international standards, right here in Bangladesh. He decided to take the legacy of his family's business and transform it, adding new ideas and a commitment to manufacturing excellence.
 
-  What keeps me excited about this work is the constant learning and the challenge of translating complex ideas into simple, elegant solutions. There's nothing more rewarding than seeing a design come to life and knowing it's making someone's digital interaction easier or more enjoyable.
+  With this vision, QVC BD LTD was born. It was founded not only to fill a market gap but to become a leader in the industry by producing the country's first international-standard drive chains for motorcycles, bicycles, rickshaws, and more. Mr. Shamsuzzaman's leadership and innovative approach turned a family tradition into a modern manufacturing success story, creating a company that is now a pillar of the transportation sector in Bangladesh.
 
-  ### Beyond the Screen
+  ### Dream of QVC BD LTD
 
-  When I'm not designing or coding, you might find me exploring Boston's latest coffee shops, hiking nearby trails, or occasionally contributing to open-source projects.
+  Our company, QVC BD LTD, was born from a vision far greater than just business. It is a dream passed down through generations, now brought to life by Mr. A.T.M. Shamsuzzaman. While his family's legacy was in trading motorcycle parts, he saw a bigger potential. to build a homegrown industry that could stand on the world stage.
+
+  The Dream is to Power a Nation. We envision a Bangladesh where every motorcycle, bicycle, rickshaw, and auto-rickshaw runs on a drive chain made with local pride and international excellence. We dream of a day when "Made in Bangladesh" is a symbol of superior quality, not just in textiles but also in advanced engineering and manufacturing. Our ultimate goal is to become an industry leader, not only in our home country but also to compete and excel in the global market.
+
+  The Dream is to Innovate and Excel. We are not just a factory; we are a hub of innovation. Our dream is to push the boundaries of manufacturing in Bangladesh by continuously adopting the best technologies from around the world. We will continue to invest in cutting-edge machinery from Japan and Germany and use the finest materials from Taiwan to produce products that are simply unmatched. Our dream is to become a driving force in the nation's industrial progress.
+
+  The Dream is to Create a Legacy. QVC BD LTD's dream is to build a lasting legacy. We are committed to fostering a new generation of skilled workers and engineers who can proudly say they built a world-class product right here in Bangladesh. We want to be a company that not only provides jobs but also contributes to the nation's economy and reputation.
+
+  Ultimately, our dream is simple yet ambitious to be the power behind the wheels of progress in Bangladesh, one high-quality drive chain at a time.
+
+
+  ### Our Technology and Process
+
+  At QVC BD LTD, we believe that superior products are the result of superior technology and materials. Our manufacturing process is a perfect synergy of advanced engineering and meticulous quality control, ensuring every drive chain we produce meets the highest international standards.
+
+  We are proud to utilize advanced technology from Japan and Germany. These nations are renowned for their engineering excellence, and we have integrated their cutting-edge machinery and manufacturing techniques into our production lines. This allows us to achieve exceptional precision, consistency, and efficiency, producing chains that are not only strong but also incredibly reliable.
+
+  In addition to our world-class technology, we use only the finest raw materials. The high-grade steel and other components are imported directly from Taiwan. Taiwan is recognized globally for producing top-quality materials, and sourcing from there ensures that the foundation of our products is uncompromisingly strong. By using these premium materials, we guarantee that our drive chains can withstand extreme conditions, providing superior durability and long-lasting performance.
+
+  From the moment raw materials enter our facility to the final product leaving our factory, every step is monitored with strict quality control protocols. This commitment to excellence ensures that when you choose a QVC BD LTD product, you are choosing a drive chain built with the best technology and the finest materials the world has to offer.
+
+  ### Our Commitment
+
+  We're more than just a manufacturer; we're a partner in progress. We're dedicated to supporting the transportation and logistics sector in Bangladesh by providing reliable, long-lasting drive chains. We're also committed to our environmental responsibilities, implementing sustainable practices in our operations. Our goal is to be a leader in our industry, setting new standards for quality, innovation, and customer satisfaction. We believe in building strong, long-term relationships with our customers by providing excellent products and exceptional service.
 
 images:
-  - src: https://images.unsplash.com/photo-1744877478622-a78c7a3336f6?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    alt: My coffee workspace
-  - src: https://images.unsplash.com/photo-1744429523595-2c06b8611242?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    alt: My trip to Tokyo
+  - src: /hero/f1.jpg
+    alt: Driving the Future of Mobility
+  - src: /hero/f2.jpg
+    alt: Full Staff Family at QVC BD LTD

@@ -9,28 +9,30 @@ hero:
       to: /products
       color: "neutral"
   images:
-    - src: /hero/f1.jpg
-      alt: Random Image 1
-    - src: /hero/f2.jpg
-      alt: Random Image 2
-    - src: /hero/f3.jpg
-      alt: Random Image 3
-    - src: /hero/f4.jpg
-      alt: Random Image 3
-    - src: /hero/f5.jpg
-      alt: Random Image 3
-    - src: /hero/p1.jpg
-      alt: Random Image 4
-    - src: /hero/p2.jpg
-      alt: Random Image 5
-    - src: /hero/p3.jpg
-      alt: Random Image 6
-    - src: /hero/kit2.jpeg
-      alt: Random Image 7
-    - src: /hero/kit3.jpeg
-      alt: Random Image 8
-    - src: /hero/p3.jpg
-      alt: Random Image 9
+    - src: /images/gallery/13.webp
+      alt: QVC BD LTD Featured Photos 1
+    - src: /images/gallery/9.webp
+      alt: QVC BD LTD Featured Photos 2
+    - src: /images/gallery/12.webp
+      alt: QVC BD LTD Featured Photos 3
+    - src: /images/gallery/15.webp
+      alt: QVC BD LTD Featured Photos 3
+    - src: /images/gallery/8.webp
+      alt: QVC BD LTD Featured Photos 3
+    - src: /images/gallery/9.webp
+      alt: QVC BD LTD Featured Photos 4
+    - src: /images/gallery/10.webp
+      alt: QVC BD LTD Featured Photos 5
+    - src: /images/gallery/2.webp
+      alt: QVC BD LTD Featured Photos 6
+    - src: /images/products/1.jpg
+      alt: QVC BD LTD Featured Photos 7
+    - src: /images/products/3.jpg
+      alt: QVC BD LTD Featured Photos 8
+    - src: /images/products/4.jpg
+      alt: QVC BD LTD Featured Photos 9
+    - src: /images/products/5.jpg
+      alt: QVC BD LTD Featured Photos 10
 
 about:
   title: "Who We Are"

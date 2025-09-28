@@ -49,10 +49,10 @@ useSeoMeta({
       >
         <UUser
           orientation="vertical"
-          name="MD. Shamsuzzaman"
+          name="A.T.M Shamsuzzaman (Zaman)"
           description="Founder, Managing Director"
           :avatar="{
-            src: 'https://i.pravatar.cc/150?u=john-doe',
+            src: '/images/team/SZaman.png',
             size: 48
           }"
         />
@@ -68,35 +68,37 @@ useSeoMeta({
         />
         <div class="grid sm:grid-cols-1 md:grid-cols-2 gap-4 place-content-center">
           <UCard variant="subtle">
-            <div class="py-2">
+            <template #header>
               <NuxtImg
-                src="/qvc-logo.png"
-                alt="QVC BD Limited"
+                src="/images/team/SZaman.png"
+                alt="A.T.M Shamsuzzaman (Zaman)"
                 width="64"
                 height="auto"
                 class="mx-auto"
               >
-                qvc-logo
+                A.T.M Shamsuzzaman (Zaman)
               </NuxtImg>
-              <span class="truncate text-center block">MD. Shamsuzzaman</span>
-              <span class="truncate text-center text-sm italic text-gray-500 block">Founder, Managing Director</span>
+            </template>
+            <div class="py-2">
+              <span class="truncate text-center block">A.T.M Shamsuzzaman (Zaman)</span>
+              <span class="truncate text-center text-sm italic text-gray-500 block">Founder and Managing Director at QVC BD LTD</span>
             </div>
           </UCard>
           <UCard variant="subtle">
             <template #header>
               <NuxtImg
-                src="/qvc-logo.png"
-                alt="QVC BD Limited"
+                src="/images/team/SHBiplob.png"
+                alt="Md. Shazzad Hossain (Biplob)"
                 width="64"
                 height="auto"
                 class="mx-auto"
               >
-                qvc-logo
+                Md. Shazzad Hossain (Biplob)
               </NuxtImg>
             </template>
             <div class="py-2">
-              <span class="truncate text-center block">MD. Shamsuzzaman</span>
-              <span class="truncate text-center text-sm italic text-gray-500 block">Founder, Managing Director</span>
+              <span class="truncate text-center block">Md. Shazzad Hossain (Biplob)</span>
+              <span class="truncate text-center text-sm italic text-gray-500 block">Director at QVC BD LTD</span>
             </div>
           </UCard>
         </div>

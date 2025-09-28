@@ -54,6 +54,9 @@ useSeoMeta({
           :light="global.picture?.light!"
           :dark="global.picture?.dark!"
           :alt="global.picture?.alt!"
+          size="96"
+          width="300"
+          height="300"
         />
       </UPageHero>
       <UPageSection

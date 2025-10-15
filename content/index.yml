@@ -64,27 +64,27 @@ experience:
         url: "https://linear.app"
         color: "#5E6AD2"
 testimonials:
-  - quote: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+  - quote: "QVC BD’s drive chains have transformed our service offerings. Our customers trust the durability, and we’ve seen a noticeable drop in replacements. Proud to support a local manufacturer that delivers global quality."
     author:
-      name: "Sarah Chen"
-      description: "Product Director at Bloom Finance"
+      name: "Md. Rafiq Hasan"
+      description: "Owner of Rafiq Motors, Dhaka"
       avatar:
-        src: "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80"
-        srcset: "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x"
-  - quote: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        src: "https://png.pngtree.com/png-clipart/20220719/original/pngtree-man-avatar-wearing-blue-t-shirt-png-image_8385074.png"
+        srcset: "https://png.pngtree.com/png-clipart/20220719/original/pngtree-man-avatar-wearing-blue-t-shirt-png-image_8385074.png 2x"
+  - quote: "We rely on QVC BD chains for our fleet of delivery bikes. Their performance under tough conditions is unmatched. It’s great to see a Bangladeshi company leading with such reliability."
     author:
-      name: "Michael Rodriguez"
-      description: "Co-founder of Wavelength Music"
+      name: "Nasima Akter"
+      description: "Logistics Manager at Bengal Riders, Chattogram"
       avatar:
-        src: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80"
-        srcset: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x"
-  - quote: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        src: "https://png.pngtree.com/png-vector/20250826/ourlarge/pngtree-flat-female-user-profile-picture-faceless-avatar-isolated-vector-png-image_17227402.webp"
+        srcset: "https://png.pngtree.com/png-vector/20250826/ourlarge/pngtree-flat-female-user-profile-picture-faceless-avatar-isolated-vector-png-image_17227402.webp 2x"
+  - quote: "I’ve worked with many brands, but QVC BD’s chains are a cut above. Easy to install, long-lasting, and backed by a responsive team. My clients ask for them by name now."
     author:
-      name: "Dr. Aisha Johnson"
-      description: "Chief Innovation Officer at GreenTech Solutions"
+      name: "Tanvir Alam"
+      description: "Mechanic and Workshop Owner, Rajshahi"
       avatar:
-        src: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80"
-        srcset: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x"
+        src: "https://png.pngtree.com/png-clipart/20220719/original/pngtree-man-avatar-wearing-blue-t-shirt-png-image_8385074.png"
+        srcset: "https://png.pngtree.com/png-clipart/20220719/original/pngtree-man-avatar-wearing-blue-t-shirt-png-image_8385074.png 2x"
 faq:
   title: Frequently Asked Questions
   description: Answers to common questions about our manufacturing process and products.

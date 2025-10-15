@@ -46,17 +46,7 @@ useSeoMeta({
           description: '!mx-0 text-left',
           links: 'justify-start'
         }"
-      >
-        <UUser
-          orientation="vertical"
-          name="A.T.M Shamsuzzaman (Zaman)"
-          description="Founder, Managing Director"
-          :avatar="{
-            src: '/images/team/SZaman.png',
-            size: 48
-          }"
-        />
-      </UPageHero>
+      />
       <UPageSection
         :ui="{
           container: '!pt-0'
